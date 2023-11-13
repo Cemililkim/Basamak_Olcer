@@ -1,0 +1,16 @@
+<mxfile host="Electron" modified="2023-11-12T09:43:58.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="J7ew2MLmFuRRlUe0kB8P" version="22.0.3" type="device">
+  <diagram name="Sayfa -1" id="9uIPFWbk1Hb5rk5BS3LR">
+    <mxGraphModel dx="592" dy="346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_hGm_OhX11fzLl_RdN7b-1" value="Girilen sayının kaç basamaklı olduğunu söyleyen programın algoritma" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="30" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_hGm_OhX11fzLl_RdN7b-2" value="Sayı için S , Sayaç için Sayaç Basamak İçin B SEÇ&lt;br&gt;&lt;ol&gt;&lt;li&gt;BAŞLA&lt;/li&gt;&lt;li&gt;Sayaç = 1&lt;/li&gt;&lt;li&gt;S değerini OKU&lt;/li&gt;&lt;li&gt;S &amp;gt; 0 mı&amp;nbsp;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Evetse, 5. adıma git&amp;nbsp;&lt;/li&gt;&lt;li&gt;Hayırsa, S = S * -1, 5. adıma git&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;S = (S / 10)&lt;/li&gt;&lt;li&gt;Sayaç++&lt;/li&gt;&lt;li&gt;S &amp;gt; 10&amp;nbsp;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Evetse, 5 adıma git&lt;/li&gt;&lt;li&gt;Hayırsa, 7. adıma git&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;B = Sayaç&lt;/li&gt;&lt;li&gt;B Değerini YAZ&lt;/li&gt;&lt;li&gt;BİTİR&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="70" width="350" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
